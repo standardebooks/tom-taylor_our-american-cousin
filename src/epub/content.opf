@@ -36,38 +36,41 @@
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3158</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/3158</meta>
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/3158</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Comedy</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description"><i>Our American Cousin</i> is a 3-act farce written in 1858 by Tom Taylor. The plot features a rough American from a distant branch of the Trenchard family who returns to England and quickly becomes embroiled in the family’s affairs. It is famous for being the play that Abraham Lincoln was watching when he was shot.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+		&lt;p&gt;&lt;i&gt;Our American Cousin&lt;/i&gt; is a three-act play written by English playwright Tom Taylor. The play opened in London in 1858 but quickly made its way to the U.S and premiered at Laura Keene’s Theatre in New York City later that year. It remained popular in the U.S and England for the next several decades. It’s most notable claim to fame however, is that it was the play U.S. President Abraham Lincoln was watching on April 14, 1865 when he was assassinated by John Wilkes Booth who used his knowledge of the script to shoot Lincoln during a more raucous scene.&lt;/p&gt;
+&lt;p&gt;The play is a classic Victorian farce with a whole range of stereotyped characters and many entrances and exits. The plot features a boorish, but honest American cousin who travels to the aristocratic English countryside to claim his inheritance and then quickly becomes swept up in the family&apos;s affairs. An inevitable rescue of the family’s fortunes and of the various damsels in distress ensues.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Our American Cousin&lt;/i&gt; was originally written as a farce for and English audience with the laughs coming mostly at the expense of the naïve American character. But after it moved to the U.S. it was eventually recast as a comedy where English caricatures like the pompous Lord Dundreary soon became the primary source of hilarity. This early version, published in 1869, contains fewer of that character’s nonsensical adages which soon come to be known as “Dundrearyisms” and for which the play eventually gained much of its popular appeal.&lt;/p&gt;
+</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3158</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Our_American_Cousin</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/tom-taylor_our-american-cousin</meta>
 		<dc:creator id="author">Tom Taylor</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Taylor, Tom</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Tom_Taylor</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHORNACOAFLINK</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n82208076</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<dc:contributor id="artist">Richard Caton Woodville</dc:contributor>
+		<meta property="file-as" refines="#artist">Woodville, Richard Caton</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Richard_Caton_Woodville</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr91024134</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">The Levin family</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Levin family, The</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://astart.ca</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
