@@ -6,10 +6,6 @@
 	text-align: center;
 }
 
-[epub|type~="z3998:dramatis-personae"] h3{
-	margin: 2em 0 0 0;
-}
-
 [epub|type~="z3998:dramatis-personae"] ul{
 	list-style: none;
 	margin: 0;
@@ -83,23 +79,4 @@
 section[epub|type~="z3998:scene"] > p{
 	margin: 1em auto;
 	width: 75%;
-}
-
-tr.together td{
-	padding: 0 .5em 0 0;
-	vertical-align: middle;
-}
-
-tr.together td:only-child,
-tr.together td + td{
-	border-left: 1px solid;
-}
-
-[epub|type~="z3998:drama"] .together td:last-child{
-	padding-left: .5em;
-}
-
-.together + .together td[rowspan],
-.together + .together td[rowspan] + td{
-	padding-top: .5em;
 }
