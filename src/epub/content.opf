@@ -38,7 +38,7 @@
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/3158</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description"><i>Our American Cousin</i> is a 3-act farce written in 1858 by Tom Taylor. The plot features a rough American from a distant branch of the Trenchard family who returns to England and quickly becomes embroiled in the family’s affairs. It is famous for being the play that Abraham Lincoln was watching when he was shot.</dc:description>
+		<dc:description id="description">A 3-act farce written in 1858 by Tom Taylor which features a rough American from a distant branch of the Trenchard family who returns to England and quickly becomes embroiled in the family’s affairs.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Our American Cousin&lt;/i&gt; is a three-act play written by English playwright Tom Taylor. The play opened in London in 1858 but quickly made its way to the U.S and premiered at Laura Keene’s Theatre in New York City later that year. It remained popular in the U.S and England for the next several decades. It’s most notable claim to fame however, is that it was the play U.S. President Abraham Lincoln was watching on April 14, 1865 when he was assassinated by John Wilkes Booth, who used his knowledge of the script to shoot Lincoln during a more raucous scene.&lt;/p&gt;
