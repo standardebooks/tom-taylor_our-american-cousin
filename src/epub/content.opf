@@ -27,26 +27,27 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Our American Cousin</dc:title>
 		<meta property="file-as" refines="#title">Our American Cousin</meta>
 		<dc:subject id="subject-1">Comedies</dc:subject>
 		<dc:subject id="subject-2">Americans -- England -- Drama</dc:subject>
 		<dc:subject id="subject-3">Aristocracy (Social class) -- England -- Drama</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3158</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/3158</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/3158</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh99005572</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">A rough American from a distant branch of the Trenchard family returns to England and quickly becomes embroiled in the family’s affairs.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Our American Cousin&lt;/i&gt; is a three-act play written by English playwright Tom Taylor. The play opened in London in 1858 but quickly made its way to the U.S. and premiered at Laura Keene’s Theatre in New York City later that year. It remained popular in the U.S. and England for the next several decades. Its most notable claim to fame, however, is that it was the play U.S. President Abraham Lincoln was watching on April 14, 1865 when he was assassinated by John Wilkes Booth, who used his knowledge of the script to shoot Lincoln during a more raucous scene.&lt;/p&gt;
 			&lt;p&gt;The play is a classic Victorian farce with a whole range of stereotyped characters, business, and many entrances and exits. The plot features a boorish but honest American cousin who travels to the aristocratic English countryside to claim his inheritance, and then quickly becomes swept up in the family’s affairs. An inevitable rescue of the family’s fortunes and of the various damsels in distress ensues.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Our American Cousin&lt;/i&gt; was originally written as a farce for an English audience, with the laughs coming mostly at the expense of the naive American character. But after it moved to the U.S. it was eventually recast as a comedy where English caricatures like the pompous Lord Dundreary soon became the primary source of hilarity. This early version, published in 1869, contains fewer of that character’s nonsensical adages, which soon came to be known as “Dundrearyisms,” and for which the play eventually gained much of its popular appeal.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3158</dc:source>
 		<dc:source>https://archive.org/details/ouramericancousi00tayl</dc:source>
@@ -92,6 +93,7 @@
 		<item href="text/act-2.xhtml" id="act-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/act-3.xhtml" id="act-3.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/list-of-characters.xhtml" id="list-of-characters.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -101,6 +103,7 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="list-of-characters.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="act-1.xhtml"/>
 		<itemref idref="act-2.xhtml"/>
 		<itemref idref="act-3.xhtml"/>
