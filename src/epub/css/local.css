@@ -67,6 +67,16 @@
 	font-style: normal;
 }
 
+abbr[epub|type~="z3998:stage-direction"]{
+	font-style: normal;
+	font-variant: all-small-caps;
+}
+
+abbr[epub|type~="z3998:stage-direction"]::before,
+abbr[epub|type~="z3998:stage-direction"]::after{
+	content: '';
+}
+
 [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
