@@ -74,7 +74,7 @@ abbr[epub|type~="z3998:stage-direction"]{
 
 abbr[epub|type~="z3998:stage-direction"]::before,
 abbr[epub|type~="z3998:stage-direction"]::after{
-	content: '';
+	content: "";
 }
 
 [epub|type~="z3998:persona"]{
