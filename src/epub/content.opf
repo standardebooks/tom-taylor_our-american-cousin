@@ -40,7 +40,6 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
-		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A rough American from a distant branch of the Trenchard family returns to England and quickly becomes embroiled in the family’s affairs.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Our American Cousin&lt;/i&gt; is a three-act play written by English playwright &lt;a href="https://standardebooks.org/ebooks/tom-taylor"&gt;Tom Taylor&lt;/a&gt;. The play opened in London in 1858 but quickly made its way to the &lt;abbr&gt;U.S.&lt;/abbr&gt; and premiered at Laura Keene’s Theatre in New York City later that year. It remained popular in the &lt;abbr&gt;U.S.&lt;/abbr&gt; and England for the next several decades. Its most notable claim to fame, however, is that it was the play &lt;abbr&gt;U.S.&lt;/abbr&gt; President Abraham Lincoln was watching on April 14, 1865 when he was assassinated by John Wilkes Booth, who used his knowledge of the script to shoot Lincoln during a more raucous scene.&lt;/p&gt;
