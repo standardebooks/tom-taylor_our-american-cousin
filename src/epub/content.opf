@@ -50,7 +50,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3158</dc:source>
 		<dc:source>https://archive.org/details/ouramericancousi00tayl</dc:source>
 		<meta property="se:production-notes">No-break spaces are removed from persona names to help in text wrapping, because the character names are so long.</meta>
-		<meta property="se:word-count">21119</meta>
+		<meta property="se:word-count">20411</meta>
 		<meta property="se:reading-ease.flesch">77.94</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Our_American_Cousin</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/tom-taylor_our-american-cousin</meta>
