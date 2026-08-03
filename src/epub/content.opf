@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/tom-taylor/our-american-cousin</dc:identifier>
 		<dc:date>2019-02-15T21:50:30Z</dc:date>
@@ -41,12 +41,12 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:description id="description">A rough American from a distant branch of the Trenchard family returns to England and quickly becomes embroiled in the family’s affairs.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A rough American from a distant branch of the Trenchard family returns to England and quickly becomes embroiled in the family’s affairs.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Our American Cousin&lt;/i&gt; is a three-act play written by English playwright &lt;a href="https://standardebooks.org/ebooks/tom-taylor"&gt;Tom Taylor&lt;/a&gt;. The play opened in London in 1858 but quickly made its way to the &lt;abbr&gt;U.S.&lt;/abbr&gt; and premiered at Laura Keene’s Theatre in New York City later that year. It remained popular in the &lt;abbr&gt;U.S.&lt;/abbr&gt; and England for the next several decades. Its most notable claim to fame, however, is that it was the play &lt;abbr&gt;U.S.&lt;/abbr&gt; President Abraham Lincoln was watching on April 14, 1865 when he was assassinated by John Wilkes Booth, who used his knowledge of the script to shoot Lincoln during a more raucous scene.&lt;/p&gt;
 			&lt;p&gt;The play is a classic Victorian farce with a whole range of stereotyped characters, business, and many entrances and exits. The plot features a boorish but honest American cousin who travels to the aristocratic English countryside to claim his inheritance, and then quickly becomes swept up in the family’s affairs. An inevitable rescue of the family’s fortunes and of the various damsels in distress ensues.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Our American Cousin&lt;/i&gt; was originally written as a farce for an English audience, with the laughs coming mostly at the expense of the naive American character. But after it moved to the &lt;abbr&gt;U.S.&lt;/abbr&gt; it was eventually recast as a comedy where English caricatures like the pompous Lord Dundreary soon became the primary source of hilarity. This early version, published in 1869, contains fewer of that character’s nonsensical adages, which soon came to be known as “Dundrearyisms,” and for which the play eventually gained much of its popular appeal.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3158</dc:source>
 		<dc:source>https://archive.org/details/ouramericancousi00tayl</dc:source>
